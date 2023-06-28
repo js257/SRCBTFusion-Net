@@ -36,7 +36,8 @@ Extraction code: cfks<br>
 ## 2.2 Start training and testing
 <pre>python transformerCNN/train.py</pre>
 # Requirement
-Python 3.7.0+<br>
+<pre>Python 3.7.0+<br>
 Pytorch 1.2.0<br>
 CUDA 11.2<br>
 tqdm 4.65.0<br>
+</pre>
