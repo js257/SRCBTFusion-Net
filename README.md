@@ -7,29 +7,29 @@ Convolutional neural network (CNN) and Transformer-based self-attention models h
 Our divided experimental Vaihingen dataset and Potsdam dataset (https://www.aliyundrive.com/s/VjRwXPLYedt)<br>
 Extraction code:l2x4<br>
 Then prepare the datasets in the following format for easy use of the code:<br>
-├── datasets
-    ├── Postdam
-    │   ├── origin 
-    │   ├── train
-    │   │   ├── images
-    │   │   ├── labels
-    │   │   └── train_org
-    │   └── val
-    │       ├── train
-    │       ├── images
-    │       ├── labels
-    │       └── val_org
-    └── Vaihingen
-            ├── origin 
-            ├── train
-            │   ├── images
-            │   ├── labels
-            │   └── train_org
-            └── val
-                ├── train
-                ├── images
-                ├── labels
-                └── val_org
+├── datasets<br>
+    ├── Postdam<br>
+    │   ├── origin <br>
+    │   ├── train<br>
+    │   │   ├── images<br>
+    │   │   ├── labels<br>
+    │   │   └── train_org<br>
+    │   └── val<br>
+    │       ├── train<br>
+    │       ├── images<br>
+    │       ├── labels<br>
+    │       └── val_org<br>
+    └── Vaihingen<br>
+            ├── origin <br>
+            ├── train<br>
+            │   ├── images<br>
+            │   ├── labels<br>
+            │   └── train_org<br>
+            └── val<br>
+                ├── train<br>
+                ├── images<br>
+                ├── labels<br>
+                └── val_org<br>
 # 2. Training
 # 2.1 Pre-training weight
 If you don't want to train, you can adopt the weights we trained on two datasets (https://pan.baidu.com/s/1VRXZ4uFhGcOZMmexmre4BA)<br>
