@@ -9,7 +9,7 @@ Extraction code:l2x4<br>
 Then prepare the datasets in the following format for easy use of the code:<br>
 ├── datasets<br>
     ├── Postdam<br>
-    │   ├── origin <br>
+    │   ├── origin<br>
     │   ├── train<br>
     │   │   ├── images<br>
     │   │   ├── labels<br>
@@ -20,7 +20,7 @@ Then prepare the datasets in the following format for easy use of the code:<br>
     │       ├── labels<br>
     │       └── val_org<br>
     └── Vaihingen<br>
-            ├── origin <br>
+            ├── origin<br>
             ├── train<br>
             │   ├── images<br>
             │   ├── labels<br>
