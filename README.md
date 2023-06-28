@@ -8,6 +8,8 @@ Extraction code:l2x4
 # Weight
 If you don't want to train, you can adopt the weights we trained on two datasets (https://pan.baidu.com/s/1VRXZ4uFhGcOZMmexmre4BA)<br>
 Extraction code: cfks
+# Train
+
 # Requirement
 Python 3.7.0+<br>
 Pytorch 1.2.0<br>
