@@ -11,4 +11,3 @@ Python 3.7.0+<br>
 Pytorch 1.2.0<br>
 CUDA 11.6<br>
 tqdm 4.65.0<br>
-transformers 4.28.1<br>
