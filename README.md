@@ -10,7 +10,7 @@ Extraction code:l2x4<br>
 ## 2.1 Pre-training weight
 If you don't want to train, you can adopt the weights we trained on two datasets (https://pan.baidu.com/s/1VRXZ4uFhGcOZMmexmre4BA)<br>
 Extraction code: cfks<br>
-# Start training and testing
+# 2.2 Start training and testing
 python train.py<br>
 # Requirement
 Python 3.7.0+<br>
