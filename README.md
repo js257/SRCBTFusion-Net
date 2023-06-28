@@ -7,13 +7,25 @@ Convolutional neural network (CNN) and Transformer-based self-attention models h
 Our divided experimental Vaihingen dataset and Potsdam dataset (https://www.aliyundrive.com/s/VjRwXPLYedt)<br>
 Extraction code:l2x4<br>
 <pre>├── Postdam
-│   ├──origin
+│   ├── origin
 │   ├── train
+│   │   ├── images
+│   │   ├── labels
+│   │   └── train_org.txt
 │   └── val
-└── val<br>
+│       ├── images
+│       ├── labels
+│       └── val_org.txt
+└── Vaihingen
     ├── origin
     ├── train
+    │   ├── images
+    │   ├── labels
+    │   └── train_org.txt
     └── val
+        ├── images
+        ├── labels
+        └── val_org.txt
 </pre>
 # 2. Training
 ## 2.1 Pre-training weight
