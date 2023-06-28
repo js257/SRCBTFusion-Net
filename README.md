@@ -6,11 +6,11 @@ Convolutional neural network (CNN) and Transformer-based self-attention models h
 ## 1.1 Potsdam and Vaihingen Datasets 
 Our divided experimental Vaihingen dataset and Potsdam dataset (https://www.aliyundrive.com/s/VjRwXPLYedt)<br>
 Extraction code:l2x4<br>
-├── Postdam<br>
-│   ├── origin<br>
-│   ├── train<br>
-│   └── val<br>
-└── val<br>
+├── Postdam<br >
+│   ├── origin<br >
+│   ├── train<br >
+│   └── val<br >
+└── val<br >
     ├── origin<br>
     ├── train<br>
     └── val<br>
