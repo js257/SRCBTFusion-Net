@@ -1,6 +1,6 @@
 # SRCBTFusion-Net
 We will upload all model codes after the paper is accepted.
-# dataset
+# Dataset
 Our divided experimental Vaihingen dataset and Potsdam dataset (https://www.aliyundrive.com/s/VjRwXPLYedt)<br>
 Extraction code:l2x4
 # weight
