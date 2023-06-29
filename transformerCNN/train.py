@@ -214,8 +214,6 @@ def main():
         if early_stopping.early_stop:
             break
 
-    ############################### 混淆矩阵 #######################################
-    ##############################################################################
     p_train_time.append(train_time)
     p_val_time.append(val_time)
     f = open('logs/result_edg_v_50.txt', 'a')
@@ -223,39 +221,11 @@ def main():
     f.write('平均测试时间: %.4f\n' % np.mean(p_val_time))
     f.close()
 
- 
-    
-
 
 if __name__ == '__main__':
     if not os.path.exists('./logs'):
         os.makedirs('./logs')
-    batch_size = 16
-    vit_name = 'R50-ViT-B_16'
-    num_class = 6
-    img_size = 256
-
-    # voc_test = RemoteSensingDataset(False, img_transforms)
-    # if not args.deterministic:
-    #     cudnn.benchmark = True
-    #     cudnn.deterministic = False
-    # else:
-    #     cudnn.benchmark = False
-    #     cudnn.deterministic = True
-    #
-    # random.seed(args.seed)
-    # np.random.seed(args.seed)
-    # torch.manual_seed(args.seed)
-    # torch.cuda.manual_seed(args.seed)
-
-    # model = MA_Net(3, num_class).cuda()
-    config_vit = CONFIGS_ViT_seg[vit_name]
-    if vit_name.find('R50') != -1:
-        config_vit.patches.grid = (int(img_size / batch_size), int(img_size / batch_size))
-    model = ViT_seg(config_vit, img_size=img_size, num_classes=num_class).cuda()
-    x = torch.randn(16, 3, 256, 256).cuda()
-    x = model(x)
-    # main()
+    main()
 
 
 
