@@ -36,6 +36,7 @@ Extraction code: cfks
 ## 2.2 Start training and testing
 <pre>python transformerCNN/train.py</pre>
 # Result:
+Comparison of different methods in performance on Potsdam and Vaihingen Datasets:
 <table class=MsoTableGrid border=1 cellspacing=0 cellpadding=0 width=473
  style='width:354.4pt;border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
  mso-yfti-tbllook:1184;mso-padding-alt:0cm .3pt 0cm .3pt'>
@@ -490,6 +491,7 @@ Extraction code: cfks
   </td>
  </tr>
 </table>
+
 # Requirement
 <pre>Python 3.7.0+
 Pytorch 1.2.0
