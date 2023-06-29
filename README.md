@@ -40,7 +40,7 @@ Extraction code: cfks
  style='width:354.4pt;border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
  mso-yfti-tbllook:1184;mso-padding-alt:0cm .3pt 0cm .3pt'>
  <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;height:1.0pt'>
-  <td width=95 rowspan=2 style='width:70.9pt;border-top:solid windowtext 1.0pt;
+  <td width=104 rowspan=2 style='width:78.0pt;border-top:solid windowtext 1.0pt;
   border-left:none;border-bottom:double windowtext 1.5pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-bottom-alt:double windowtext 1.5pt;
   mso-border-right-alt:solid windowtext .5pt;padding:0cm .3pt 0cm .3pt;
@@ -49,7 +49,7 @@ Extraction code: cfks
   style='font-size:8.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:
   宋体;mso-font-kerning:0pt;mso-fareast-language:EN-US'>Method<o:p></o:p></span></p>
   </td>
-  <td width=85 rowspan=2 style='width:63.8pt;border-top:solid windowtext 1.0pt;
+  <td width=76 rowspan=2 style='width:2.0cm;border-top:solid windowtext 1.0pt;
   border-left:none;border-bottom:double windowtext 1.5pt;border-right:solid windowtext 1.0pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   mso-border-bottom-alt:double windowtext 1.5pt;padding:0cm .3pt 0cm .3pt;
@@ -122,7 +122,7 @@ Extraction code: cfks
   </td>
  </tr>
  <tr style='mso-yfti-irow:2;height:1.0pt'>
-  <td width=95 style='width:70.9pt;border:none;border-right:solid windowtext 1.0pt;
+  <td width=104 style='width:78.0pt;border:none;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:double windowtext 1.5pt;mso-border-top-alt:double windowtext 1.5pt;
   mso-border-right-alt:solid windowtext .5pt;padding:0cm .3pt 0cm .3pt;
   height:1.0pt'>
@@ -132,7 +132,7 @@ Extraction code: cfks
   lang=EN-US style='font-size:8.0pt;font-family:"Times New Roman",serif;
   mso-fareast-font-family:宋体;mso-font-kerning:0pt;mso-fareast-language:EN-US'><o:p></o:p></span></p>
   </td>
-  <td width=85 style='width:63.8pt;border:none;border-right:solid windowtext 1.0pt;
+  <td width=76 style='width:2.0cm;border:none;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:double windowtext 1.5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-top-alt:double windowtext 1.5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-right-alt:solid windowtext .5pt;padding:0cm .3pt 0cm .3pt;
@@ -179,7 +179,7 @@ Extraction code: cfks
   </td>
  </tr>
  <tr style='mso-yfti-irow:3;height:1.0pt'>
-  <td width=95 style='width:70.9pt;border:none;border-right:solid windowtext 1.0pt;
+  <td width=104 style='width:78.0pt;border:none;border-right:solid windowtext 1.0pt;
   mso-border-right-alt:solid windowtext .5pt;padding:0cm .3pt 0cm .3pt;
   height:1.0pt'>
   <p class=MsoNormal align=center style='text-align:center'><span class=SpellE><span
@@ -188,7 +188,7 @@ Extraction code: cfks
   lang=EN-US style='font-size:8.0pt;font-family:"Times New Roman",serif;
   mso-fareast-font-family:宋体;mso-font-kerning:0pt;mso-fareast-language:EN-US'><o:p></o:p></span></p>
   </td>
-  <td width=85 style='width:63.8pt;border:none;border-right:solid windowtext 1.0pt;
+  <td width=76 style='width:2.0cm;border:none;border-right:solid windowtext 1.0pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-right-alt:solid windowtext .5pt;padding:0cm .3pt 0cm .3pt;
   height:1.0pt'>
@@ -230,14 +230,14 @@ Extraction code: cfks
   </td>
  </tr>
  <tr style='mso-yfti-irow:4;height:1.0pt'>
-  <td width=95 style='width:70.9pt;border:none;border-right:solid windowtext 1.0pt;
+  <td width=104 style='width:78.0pt;border:none;border-right:solid windowtext 1.0pt;
   mso-border-right-alt:solid windowtext .5pt;padding:0cm .3pt 0cm .3pt;
   height:1.0pt'>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
   style='font-size:8.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:
   宋体;mso-font-kerning:0pt;mso-fareast-language:EN-US'>Deeplabv3+<o:p></o:p></span></p>
   </td>
-  <td width=85 style='width:63.8pt;border:none;border-right:solid windowtext 1.0pt;
+  <td width=76 style='width:2.0cm;border:none;border-right:solid windowtext 1.0pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-right-alt:solid windowtext .5pt;padding:0cm .3pt 0cm .3pt;
   height:1.0pt'>
@@ -279,7 +279,7 @@ Extraction code: cfks
   </td>
  </tr>
  <tr style='mso-yfti-irow:5;height:1.0pt'>
-  <td width=95 style='width:70.9pt;border:none;border-right:solid windowtext 1.0pt;
+  <td width=104 style='width:78.0pt;border:none;border-right:solid windowtext 1.0pt;
   mso-border-right-alt:solid windowtext .5pt;padding:0cm .3pt 0cm .3pt;
   height:1.0pt'>
   <p class=MsoNormal align=center style='text-align:center'><span class=SpellE><span
@@ -289,7 +289,7 @@ Extraction code: cfks
   lang=EN-US style='font-size:8.0pt;font-family:"Times New Roman",serif;
   mso-fareast-font-family:宋体;mso-font-kerning:0pt;mso-fareast-language:EN-US'><o:p></o:p></span></p>
   </td>
-  <td width=85 style='width:63.8pt;border:none;border-right:solid windowtext 1.0pt;
+  <td width=76 style='width:2.0cm;border:none;border-right:solid windowtext 1.0pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-right-alt:solid windowtext .5pt;padding:0cm .3pt 0cm .3pt;
   height:1.0pt'>
@@ -329,7 +329,7 @@ Extraction code: cfks
   </td>
  </tr>
  <tr style='mso-yfti-irow:6;height:1.0pt'>
-  <td width=95 style='width:70.9pt;border:none;border-right:solid windowtext 1.0pt;
+  <td width=104 style='width:78.0pt;border:none;border-right:solid windowtext 1.0pt;
   mso-border-right-alt:solid windowtext .5pt;padding:0cm .3pt 0cm .3pt;
   height:1.0pt'>
   <p class=MsoNormal align=center style='text-align:center'><span class=SpellE><span
@@ -338,7 +338,7 @@ Extraction code: cfks
   lang=EN-US style='font-size:8.0pt;font-family:"Times New Roman",serif;
   mso-fareast-font-family:宋体;mso-font-kerning:0pt;mso-fareast-language:EN-US'><o:p></o:p></span></p>
   </td>
-  <td width=85 style='width:63.8pt;border:none;border-right:solid windowtext 1.0pt;
+  <td width=76 style='width:2.0cm;border:none;border-right:solid windowtext 1.0pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-right-alt:solid windowtext .5pt;padding:0cm .3pt 0cm .3pt;
   height:1.0pt'>
@@ -378,17 +378,17 @@ Extraction code: cfks
   </td>
  </tr>
  <tr style='mso-yfti-irow:7;height:1.0pt'>
-  <td width=95 style='width:70.9pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-bottom-alt:
-  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
-  0cm .3pt 0cm .3pt;height:1.0pt'>
+  <td width=104 style='width:78.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm .3pt 0cm .3pt;height:1.0pt'>
   <p class=MsoNormal align=center style='text-align:center'><span class=SpellE><span
   lang=EN-US style='font-size:8.0pt;font-family:"Times New Roman",serif;
   mso-fareast-font-family:宋体;mso-font-kerning:0pt;mso-fareast-language:EN-US'>Segformer</span></span><span
   lang=EN-US style='font-size:8.0pt;font-family:"Times New Roman",serif;
   mso-fareast-font-family:宋体;mso-font-kerning:0pt;mso-fareast-language:EN-US'><o:p></o:p></span></p>
   </td>
-  <td width=85 style='width:63.8pt;border-top:none;border-left:none;border-bottom:
+  <td width=76 style='width:2.0cm;border-top:none;border-left:none;border-bottom:
   solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-left-alt:
   solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
   solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
@@ -434,18 +434,18 @@ Extraction code: cfks
   </td>
  </tr>
  <tr style='mso-yfti-irow:8;mso-yfti-lastrow:yes;height:5.65pt'>
-  <td width=95 style='width:70.9pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
-  solid windowtext .5pt;mso-border-top-alt:solid windowtext .5pt;mso-border-bottom-alt:
-  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
-  0cm .3pt 0cm .3pt;height:5.65pt'>
+  <td width=104 style='width:78.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:solid windowtext .5pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm .3pt 0cm .3pt;height:5.65pt'>
   <p class=MsoNormal align=center style='text-align:center'><span class=SpellE><span
   lang=EN-US style='font-size:8.0pt;font-family:"Times New Roman",serif;
   mso-fareast-font-family:宋体;mso-font-kerning:0pt;mso-fareast-language:EN-US'>SRCBTFusion</span></span><span
   lang=EN-US style='font-size:8.0pt;font-family:"Times New Roman",serif;
   mso-fareast-font-family:宋体;mso-font-kerning:0pt;mso-fareast-language:EN-US'>-Net<o:p></o:p></span></p>
   </td>
-  <td width=85 style='width:63.8pt;border-top:none;border-left:none;border-bottom:
+  <td width=76 style='width:2.0cm;border-top:none;border-left:none;border-bottom:
   solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
   solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
   solid windowtext .5pt;padding:0cm .3pt 0cm .3pt;height:5.65pt'>
