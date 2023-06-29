@@ -496,7 +496,8 @@ Comparison of different methods in performance on Potsdam and Vaihingen Datasets
   </td>
  </tr>
 </table>
-
+![image](https://github.com/SRCBTFusion-Net/figure/fig10.png)
+![image](https://github.com/SRCBTFusion-Net/figure/fig11.png)
 # Requirement
 <pre>Python 3.7.0+
 Pytorch 1.2.0
