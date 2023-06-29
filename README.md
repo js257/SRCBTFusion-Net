@@ -46,56 +46,59 @@ Comparison of different methods in performance on Potsdam and Vaihingen Datasets
   mso-border-top-alt:solid windowtext .5pt;mso-border-bottom-alt:double windowtext 1.5pt;
   mso-border-right-alt:solid windowtext .5pt;padding:0cm .3pt 0cm .3pt;
   height:1.0pt'>
-  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
-  style='font-size:8.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:
-  宋体;mso-font-kerning:0pt;mso-fareast-language:EN-US'>Method<o:p></o:p></span></p>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  lang=EN-US style='font-size:8.0pt;font-family:"Times New Roman",serif;
+  mso-fareast-font-family:宋体;mso-font-kerning:0pt;mso-fareast-language:EN-US'>Method<o:p></o:p></span></b></p>
   </td>
   <td width=76 rowspan=2 style='width:2.0cm;border-top:solid windowtext 1.0pt;
   border-left:none;border-bottom:double windowtext 1.5pt;border-right:solid windowtext 1.0pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   mso-border-bottom-alt:double windowtext 1.5pt;padding:0cm .3pt 0cm .3pt;
   height:1.0pt'>
-  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
-  style='font-size:8.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:
-  宋体;mso-font-kerning:0pt;mso-fareast-language:EN-US'>Parameters (M)<o:p></o:p></span></p>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  lang=EN-US style='font-size:8.0pt;font-family:"Times New Roman",serif;
+  mso-fareast-font-family:宋体;mso-font-kerning:0pt;mso-fareast-language:EN-US'>Parameters
+  (M)<o:p></o:p></span></b></p>
   </td>
   <td width=76 rowspan=2 style='width:2.0cm;border-top:solid windowtext 1.0pt;
   border-left:none;border-bottom:double windowtext 1.5pt;border-right:solid windowtext 1.0pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   mso-border-bottom-alt:double windowtext 1.5pt;padding:0cm .3pt 0cm .3pt;
   height:1.0pt'>
-  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
-  style='font-size:8.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:
-  宋体;mso-font-kerning:0pt;mso-fareast-language:EN-US'>Speed (FPS)<o:p></o:p></span></p>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  lang=EN-US style='font-size:8.0pt;font-family:"Times New Roman",serif;
+  mso-fareast-font-family:宋体;mso-font-kerning:0pt;mso-fareast-language:EN-US'>Speed
+  (FPS)<o:p></o:p></span></b></p>
   </td>
   <td width=66 rowspan=2 style='width:49.6pt;border-top:solid windowtext 1.0pt;
   border-left:none;border-bottom:double windowtext 1.5pt;border-right:solid windowtext 1.0pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   mso-border-bottom-alt:double windowtext 1.5pt;padding:0cm .3pt 0cm .3pt;
   height:1.0pt'>
-  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
-  style='font-size:8.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:
-  宋体;mso-font-kerning:0pt;mso-fareast-language:EN-US'>Flops (G)<o:p></o:p></span></p>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  lang=EN-US style='font-size:8.0pt;font-family:"Times New Roman",serif;
+  mso-fareast-font-family:宋体;mso-font-kerning:0pt;mso-fareast-language:EN-US'>Flops
+  (G)<o:p></o:p></span></b></p>
   </td>
   <td width=76 style='width:2.0cm;border-top:solid windowtext 1.0pt;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:none;mso-border-left-alt:
   solid windowtext .5pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:
   solid windowtext .5pt;mso-border-bottom-alt:solid windowtext .5pt;padding:
   0cm .3pt 0cm .3pt;height:1.0pt'>
-  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  lang=EN-US style='font-size:8.0pt;font-family:"Times New Roman",serif;
+  mso-fareast-font-family:宋体;color:black;mso-themecolor:text1;mso-font-kerning:
+  0pt;mso-fareast-language:EN-US'>Potsdam</span></b><b><span lang=EN-US
   style='font-size:8.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:
-  宋体;color:black;mso-themecolor:text1;mso-font-kerning:0pt;mso-fareast-language:
-  EN-US'>Potsdam</span><span lang=EN-US style='font-size:8.0pt;font-family:
-  "Times New Roman",serif;mso-fareast-font-family:宋体;mso-font-kerning:0pt;
-  mso-fareast-language:EN-US'><o:p></o:p></span></p>
+  宋体;mso-font-kerning:0pt;mso-fareast-language:EN-US'><o:p></o:p></span></b></p>
   </td>
   <td width=76 style='width:2.0cm;border:solid windowtext 1.0pt;border-right:
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-bottom-alt:solid windowtext .5pt;padding:0cm .3pt 0cm .3pt;
   height:1.0pt'>
-  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
-  style='font-size:8.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:
-  宋体;mso-font-kerning:0pt;mso-fareast-language:EN-US'>Vaihingen<o:p></o:p></span></p>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  lang=EN-US style='font-size:8.0pt;font-family:"Times New Roman",serif;
+  mso-fareast-font-family:宋体;mso-font-kerning:0pt;mso-fareast-language:EN-US'>Vaihingen<o:p></o:p></span></b></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:1;height:1.0pt'>
@@ -104,22 +107,22 @@ Comparison of different methods in performance on Potsdam and Vaihingen Datasets
   solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
   solid windowtext .5pt;mso-border-bottom-alt:double windowtext 1.5pt;
   padding:0cm .3pt 0cm .3pt;height:1.0pt'>
-  <p class=MsoNormal align=center style='text-align:center'><span class=SpellE><span
+  <p class=MsoNormal align=center style='text-align:center'><span class=SpellE><b><span
   lang=EN-US style='font-size:8.0pt;font-family:"Times New Roman",serif;
-  mso-fareast-font-family:宋体;mso-font-kerning:0pt;mso-fareast-language:EN-US'>MIoU</span></span><span
+  mso-fareast-font-family:宋体;mso-font-kerning:0pt;mso-fareast-language:EN-US'>MIoU</span></b></span><b><span
   lang=EN-US style='font-size:8.0pt;font-family:"Times New Roman",serif;
   mso-fareast-font-family:宋体;mso-font-kerning:0pt;mso-fareast-language:EN-US'>
-  (%)<o:p></o:p></span></p>
+  (%)<o:p></o:p></span></b></p>
   </td>
   <td width=76 style='width:2.0cm;border:none;border-bottom:double windowtext 1.5pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   padding:0cm .3pt 0cm .3pt;height:1.0pt'>
-  <p class=MsoNormal align=center style='text-align:center'><span class=SpellE><span
+  <p class=MsoNormal align=center style='text-align:center'><span class=SpellE><b><span
   lang=EN-US style='font-size:8.0pt;font-family:"Times New Roman",serif;
-  mso-fareast-font-family:宋体;mso-font-kerning:0pt;mso-fareast-language:EN-US'>MIoU</span></span><span
+  mso-fareast-font-family:宋体;mso-font-kerning:0pt;mso-fareast-language:EN-US'>MIoU</span></b></span><b><span
   lang=EN-US style='font-size:8.0pt;font-family:"Times New Roman",serif;
   mso-fareast-font-family:宋体;mso-font-kerning:0pt;mso-fareast-language:EN-US'>
-  (%)<o:p></o:p></span></p>
+  (%)<o:p></o:p></span></b></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:2;height:1.0pt'>
