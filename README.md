@@ -37,8 +37,8 @@ Extraction code: cfks
 <pre>python transformerCNN/train.py</pre>
 # Result:
 Comparison of different methods in performance on Potsdam and Vaihingen Datasets:
-<table class=MsoTableGrid border=1 cellspacing=0 cellpadding=0 width=473
- style='width:354.4pt;border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+<table class=MsoTableGrid border=1 cellspacing=0 cellpadding=0 width=482
+ style='width:361.5pt;border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
  mso-yfti-tbllook:1184;mso-padding-alt:0cm .3pt 0cm .3pt'>
  <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;height:1.0pt'>
   <td width=104 rowspan=2 style='width:78.0pt;border-top:solid windowtext 1.0pt;
@@ -80,11 +80,11 @@ Comparison of different methods in performance on Potsdam and Vaihingen Datasets
   mso-fareast-font-family:宋体;mso-font-kerning:0pt;mso-fareast-language:EN-US'>Flops
   (G)<o:p></o:p></span></b></p>
   </td>
-  <td width=76 style='width:2.0cm;border-top:solid windowtext 1.0pt;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:none;mso-border-left-alt:
-  solid windowtext .5pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:
-  solid windowtext .5pt;mso-border-bottom-alt:solid windowtext .5pt;padding:
-  0cm .3pt 0cm .3pt;height:1.0pt'>
+  <td width=85 style='width:63.8pt;border-top:solid windowtext 1.0pt;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:none;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-top-alt:solid windowtext .5pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:solid windowtext .5pt;
+  padding:0cm .3pt 0cm .3pt;height:1.0pt'>
   <p class=MsoNormal align=center style='text-align:center'><b><span
   lang=EN-US style='font-size:8.0pt;font-family:"Times New Roman",serif;
   mso-fareast-font-family:宋体;color:black;mso-themecolor:text1;mso-font-kerning:
@@ -102,7 +102,7 @@ Comparison of different methods in performance on Potsdam and Vaihingen Datasets
   </td>
  </tr>
  <tr style='mso-yfti-irow:1;height:1.0pt'>
-  <td width=76 style='width:2.0cm;border-top:none;border-left:none;border-bottom:
+  <td width=85 style='width:63.8pt;border-top:none;border-left:none;border-bottom:
   double windowtext 1.5pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
   solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
   solid windowtext .5pt;mso-border-bottom-alt:double windowtext 1.5pt;
@@ -163,7 +163,7 @@ Comparison of different methods in performance on Potsdam and Vaihingen Datasets
   style='font-size:8.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:
   宋体;mso-font-kerning:0pt;mso-fareast-language:EN-US'>15.51<o:p></o:p></span></p>
   </td>
-  <td width=76 style='width:2.0cm;border:none;border-right:solid windowtext 1.0pt;
+  <td width=85 style='width:63.8pt;border:none;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:double windowtext 1.5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-top-alt:double windowtext 1.5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-right-alt:solid windowtext .5pt;padding:0cm .3pt 0cm .3pt;
@@ -216,7 +216,7 @@ Comparison of different methods in performance on Potsdam and Vaihingen Datasets
   style='font-size:8.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:
   宋体;mso-font-kerning:0pt;mso-fareast-language:EN-US'>7.24<o:p></o:p></span></p>
   </td>
-  <td width=76 style='width:2.0cm;border:none;border-right:solid windowtext 1.0pt;
+  <td width=85 style='width:63.8pt;border:none;border-right:solid windowtext 1.0pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-right-alt:solid windowtext .5pt;padding:0cm .3pt 0cm .3pt;
   height:1.0pt'>
@@ -265,7 +265,7 @@ Comparison of different methods in performance on Potsdam and Vaihingen Datasets
   style='font-size:8.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:
   宋体;mso-font-kerning:0pt;mso-fareast-language:EN-US'>43.30<o:p></o:p></span></p>
   </td>
-  <td width=76 style='width:2.0cm;border:none;border-right:solid windowtext 1.0pt;
+  <td width=85 style='width:63.8pt;border:none;border-right:solid windowtext 1.0pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-right-alt:solid windowtext .5pt;padding:0cm .3pt 0cm .3pt;
   height:1.0pt'>
@@ -317,7 +317,7 @@ Comparison of different methods in performance on Potsdam and Vaihingen Datasets
   style='font-size:8.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:
   宋体;mso-font-kerning:0pt;mso-fareast-language:EN-US'>0.02<o:p></o:p></span></p>
   </td>
-  <td width=76 style='width:2.0cm;border:none;border-right:solid windowtext 1.0pt;
+  <td width=85 style='width:63.8pt;border:none;border-right:solid windowtext 1.0pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-right-alt:solid windowtext .5pt;padding:0cm .3pt 0cm .3pt;
   height:1.0pt'>
@@ -366,7 +366,7 @@ Comparison of different methods in performance on Potsdam and Vaihingen Datasets
   style='font-size:8.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:
   宋体;mso-font-kerning:0pt;mso-fareast-language:EN-US'>6.03<o:p></o:p></span></p>
   </td>
-  <td width=76 style='width:2.0cm;border:none;border-right:solid windowtext 1.0pt;
+  <td width=85 style='width:63.8pt;border:none;border-right:solid windowtext 1.0pt;
   mso-border-left-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-right-alt:solid windowtext .5pt;padding:0cm .3pt 0cm .3pt;
   height:1.0pt'>
@@ -419,7 +419,7 @@ Comparison of different methods in performance on Potsdam and Vaihingen Datasets
   style='font-size:8.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:
   宋体;mso-font-kerning:0pt;mso-fareast-language:EN-US'>11.65<o:p></o:p></span></p>
   </td>
-  <td width=76 style='width:2.0cm;border-top:none;border-left:none;border-bottom:
+  <td width=85 style='width:63.8pt;border-top:none;border-left:none;border-bottom:
   solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-left-alt:
   solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
   solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
@@ -473,7 +473,7 @@ Comparison of different methods in performance on Potsdam and Vaihingen Datasets
   style='font-size:8.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:
   宋体;mso-font-kerning:0pt;mso-fareast-language:EN-US'>17.48<o:p></o:p></span></p>
   </td>
-  <td width=76 style='width:2.0cm;border-top:none;border-left:none;border-bottom:
+  <td width=85 style='width:63.8pt;border-top:none;border-left:none;border-bottom:
   solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
   solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
   solid windowtext .5pt;padding:0cm .3pt 0cm .3pt;height:5.65pt'>
