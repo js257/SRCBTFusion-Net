@@ -88,9 +88,10 @@ Comparison of different methods in performance on Potsdam and Vaihingen Datasets
   <p class=MsoNormal align=center style='text-align:center'><b><span
   lang=EN-US style='font-size:8.0pt;font-family:"Times New Roman",serif;
   mso-fareast-font-family:宋体;color:black;mso-themecolor:text1;mso-font-kerning:
-  0pt;mso-fareast-language:EN-US'>Potsdam</span></b><b><span lang=EN-US
-  style='font-size:8.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:
-  宋体;mso-font-kerning:0pt;mso-fareast-language:EN-US'><o:p></o:p></span></b></p>
+  0pt;mso-fareast-language:EN-US'>Potsdam<span style='mso-spacerun:yes'>&nbsp;
+  </span></span></b><b><span lang=EN-US style='font-size:8.0pt;font-family:
+  "Times New Roman",serif;mso-fareast-font-family:宋体;mso-font-kerning:0pt;
+  mso-fareast-language:EN-US'><o:p></o:p></span></b></p>
   </td>
   <td width=76 style='width:2.0cm;border:solid windowtext 1.0pt;border-right:
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
@@ -112,7 +113,7 @@ Comparison of different methods in performance on Potsdam and Vaihingen Datasets
   mso-fareast-font-family:宋体;mso-font-kerning:0pt;mso-fareast-language:EN-US'>MIoU</span></b></span><b><span
   lang=EN-US style='font-size:8.0pt;font-family:"Times New Roman",serif;
   mso-fareast-font-family:宋体;mso-font-kerning:0pt;mso-fareast-language:EN-US'>
-  (%)<o:p></o:p></span></b></p>
+  (%) <o:p></o:p></span></b></p>
   </td>
   <td width=76 style='width:2.0cm;border:none;border-bottom:double windowtext 1.5pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
@@ -447,7 +448,8 @@ Comparison of different methods in performance on Potsdam and Vaihingen Datasets
   lang=EN-US style='font-size:8.0pt;font-family:"Times New Roman",serif;
   mso-fareast-font-family:宋体;mso-font-kerning:0pt;mso-fareast-language:EN-US'>SRCBTFusion</span></span><span
   lang=EN-US style='font-size:8.0pt;font-family:"Times New Roman",serif;
-  mso-fareast-font-family:宋体;mso-font-kerning:0pt;mso-fareast-language:EN-US'>-Net<o:p></o:p></span></p>
+  mso-fareast-font-family:宋体;mso-font-kerning:0pt;mso-fareast-language:EN-US'>-Net
+  <o:p></o:p></span></p>
   </td>
   <td width=76 style='width:2.0cm;border-top:none;border-left:none;border-bottom:
   solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
