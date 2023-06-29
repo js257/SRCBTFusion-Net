@@ -35,7 +35,7 @@ If you don't want to train, you can adopt the weights we trained on two datasets
 Extraction code: cfks
 ## 2.2 Start training and testing
 <pre>python transformerCNN/train.py</pre>
-# Result:
+# 3. Result:
 Comparison of different methods in performance on Potsdam and Vaihingen Datasets:
 <table class=MsoTableGrid border=1 cellspacing=0 cellpadding=0 width=482
  style='width:361.5pt;border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
