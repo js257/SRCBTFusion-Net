@@ -507,4 +507,13 @@ Fig. 2. Examples of semantic segmentation results of different models on Vaihing
 Pytorch 1.2.0
 CUDA 11.2
 tqdm 4.65.0
+numpy
+tensorboard
+tensorboardX
+ml-collections
+medpy
+SimpleITK
+scipy
+h5py
+opencv-python
 </pre>
