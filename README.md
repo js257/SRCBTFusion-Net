@@ -435,10 +435,10 @@ Comparison of different methods in performance on Potsdam and Vaihingen Datasets
  </tr>
 </tbody></table>
 
-![image]([https://github.com/js257/SRCBTFusion-Net/blob/ea6c37f91a71fb9f59e631a50b3e51b1027dd756/figure/fig13.jpg](https://github.com/js257/SRCBTFusion-Net/blob/3be7237948769651c2eb4e23246cd6b944ed0fb5/figure/fig13.jpg))<br>
+![image](https://github.com/js257/SRCBTFusion-Net/blob/3be7237948769651c2eb4e23246cd6b944ed0fb5/figure/fig13.jpg)<br>
 Fig. 1. Examples of semantic segmentation results of different models on Potsdam dataset, the last column shows the predictions of our SRCBTFusion-Net, GT represents real label.<br>
 
-![image]([https://github.com/js257/SRCBTFusion-Net/blob/ea6c37f91a71fb9f59e631a50b3e51b1027dd756/figure/fig14.jpg](https://github.com/js257/SRCBTFusion-Net/blob/3be7237948769651c2eb4e23246cd6b944ed0fb5/figure/fig14.jpg))<br>
+![image](https://github.com/js257/SRCBTFusion-Net/blob/3be7237948769651c2eb4e23246cd6b944ed0fb5/figure/fig14.jpg)<br>
 Fig. 2. Examples of semantic segmentation results of different models on Vaihingen dataset, the last column shows the predictions of our SRCBTFusion-Net, GT represents real label.<br>
 # Requirement
 <pre>Python 3.7.0+
