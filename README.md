@@ -36,10 +36,10 @@ Extraction code: cfks
 <pre>python transformerCNN/train.py</pre>
 # 3. Result:
 Comparison of different methods in performance on Potsdam and Vaihingen Datasets:
-<table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" width="441" style="width:330.5pt;border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+<table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" width="469" style="width:351.8pt;border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
  mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt">
  <tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:6.95pt">
-  <td width="94" rowspan="2" style="width:70.85pt;border-top:solid windowtext 1.0pt;
+  <td width="123" rowspan="2" style="width:92.15pt;border-top:solid windowtext 1.0pt;
   border-left:none;border-bottom:double windowtext 1.5pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-bottom-alt:double windowtext 1.5pt;
   mso-border-right-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;
@@ -105,7 +105,7 @@ Comparison of different methods in performance on Potsdam and Vaihingen Datasets
   </td>
  </tr>
  <tr style="mso-yfti-irow:2;height:6.95pt">
-  <td width="94" style="width:70.85pt;border:none;border-right:solid windowtext 1.0pt;
+  <td width="123" style="width:92.15pt;border:none;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:double windowtext 1.5pt;mso-border-top-alt:double windowtext 1.5pt;
   mso-border-right-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;
   height:6.95pt">
@@ -153,7 +153,7 @@ Comparison of different methods in performance on Potsdam and Vaihingen Datasets
   </td>
  </tr>
  <tr style="mso-yfti-irow:3;height:6.95pt">
-  <td width="94" style="width:70.85pt;border:none;border-right:solid windowtext 1.0pt;
+  <td width="123" style="width:92.15pt;border:none;border-right:solid windowtext 1.0pt;
   mso-border-right-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;
   height:6.95pt">
   <p class="MsoNormal" align="center" style="text-align:center"><span class="SpellE"><span lang="EN-US" style="font-size:8.0pt;font-family:&quot;Times New Roman&quot;,serif;
@@ -204,7 +204,7 @@ Comparison of different methods in performance on Potsdam and Vaihingen Datasets
   </td>
  </tr>
  <tr style="mso-yfti-irow:4;height:6.95pt">
-  <td width="94" style="width:70.85pt;border:none;border-right:solid windowtext 1.0pt;
+  <td width="123" style="width:92.15pt;border:none;border-right:solid windowtext 1.0pt;
   mso-border-right-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;
   height:6.95pt">
   <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:8.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
@@ -245,7 +245,7 @@ Comparison of different methods in performance on Potsdam and Vaihingen Datasets
   </td>
  </tr>
  <tr style="mso-yfti-irow:5;height:6.95pt">
-  <td width="94" style="width:70.85pt;border:none;border-right:solid windowtext 1.0pt;
+  <td width="123" style="width:92.15pt;border:none;border-right:solid windowtext 1.0pt;
   mso-border-right-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;
   height:6.95pt">
   <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:8.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
@@ -286,7 +286,7 @@ Comparison of different methods in performance on Potsdam and Vaihingen Datasets
   </td>
  </tr>
  <tr style="mso-yfti-irow:6;height:6.95pt">
-  <td width="94" style="width:70.85pt;border-top:none;border-left:none;
+  <td width="123" style="width:92.15pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:6.95pt">
@@ -336,7 +336,7 @@ Comparison of different methods in performance on Potsdam and Vaihingen Datasets
   </td>
  </tr>
  <tr style="mso-yfti-irow:7;height:6.95pt">
-  <td width="94" style="width:70.85pt;border-top:none;border-left:none;
+  <td width="123" style="width:92.15pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:6.95pt">
@@ -385,13 +385,13 @@ Comparison of different methods in performance on Potsdam and Vaihingen Datasets
   </td>
  </tr>
  <tr style="mso-yfti-irow:8;mso-yfti-lastrow:yes;height:6.95pt">
-  <td width="94" style="width:70.85pt;border-top:none;border-left:none;
+  <td width="123" style="width:92.15pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:solid windowtext .5pt;
   mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:6.95pt">
   <p class="MsoNormal" align="center" style="text-align:center"><span class="SpellE"><span lang="EN-US" style="font-size:8.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  mso-fareast-font-family:宋体">EFTCFuse</span></span><span lang="EN-US" style="font-size:8.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+  mso-fareast-font-family:宋体">SRCBTFusion</span></span><span lang="EN-US" style="font-size:8.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
   宋体">-Net<o:p></o:p></span></p>
   </td>
   <td width="85" style="width:63.8pt;border-top:none;border-left:none;border-bottom:
