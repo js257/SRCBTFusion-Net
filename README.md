@@ -442,16 +442,12 @@ Fig. 1. Examples of semantic segmentation results of different models on Potsdam
 Fig. 2. Examples of semantic segmentation results of different models on Vaihingen dataset, the last column shows the predictions of our SRCBTFusion-Net, GT represents real label.<br>
 # Requirement
 <pre>Python 3.7.0+
-Pytorch 1.2.0
-CUDA 11.2
-tqdm 4.65.0
-numpy
-tensorboard
-tensorboardX
+Pytorch 1.8.2
+CUDA 12.2
+tqdm 4.63.0
+numpy 1.21.6
 ml-collections
-medpy
-SimpleITK
+collections
 scipy
-h5py
-opencv-python
+logging
 </pre>
