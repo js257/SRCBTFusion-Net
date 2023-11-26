@@ -584,7 +584,7 @@ Comparison of different methods in performance on Potsdam and Vaihingen Datasets
  </tr>
 </tbody></table>
 
-![image](https://github.com/js257/SRCBTFusion-Net/blob/3be7237948769651c2eb4e23246cd6b944ed0fb5/figure/fig13.jpg)<br>
+![image](https://github.com/js257/SRCBTFusion-Net/blob/1076c2c1fba80ab6a023bc116dd4bf78d270b1b5/figure/fig13.jpg)<br>
 Fig. 1. Examples of semantic segmentation results of different models on Potsdam dataset, the last column shows the predictions of our SRCBTFusion-Net, GT represents real label.<br>
 
 ![image](https://github.com/js257/SRCBTFusion-Net/blob/3be7237948769651c2eb4e23246cd6b944ed0fb5/figure/fig14.jpg)<br>
