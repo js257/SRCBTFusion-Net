@@ -442,6 +442,7 @@ Fig. 1. Examples of semantic segmentation results of different models on Potsdam
 Fig. 2. Examples of semantic segmentation results of different models on Vaihingen dataset, the last column shows the predictions of our SRCBTFusion-Net, GT represents real label.<br>
 # If you use our SRCBTFusion-Net, please cite our paper:
 <pre>J. Chen, J. Yi, A. Chen and H. Lin, "SRCBTFusion-Net: An efficient Fusion Architecture via Stacked Residual Convolution Blocks and Transformer for Remote Sensing Image Semantic Segmentation," in IEEE Transactions on Geoscience and Remote Sensing, doi: 10.1109/TGRS.2023.3336689.
+</pre>
 # Requirement
 <pre>Python 3.7.0+
 Pytorch 1.8.2
