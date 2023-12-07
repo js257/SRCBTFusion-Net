@@ -594,9 +594,11 @@ Fig. 2. Examples of semantic segmentation results of different models on Vaihing
 @ARTICLE{10328787,
   author={Chen, Junsong and Yi, Jizheng and Chen, Aibin and Lin, Hui},
   journal={IEEE Transactions on Geoscience and Remote Sensing}, 
-  title={SRCBTFusion-Net: An efficient Fusion Architecture via Stacked Residual Convolution Blocks and Transformer for Remote Sensing Image Semantic Segmentation}, 
+  title={SRCBTFusion-Net: An Efficient Fusion Architecture via Stacked Residual Convolution Blocks and Transformer for Remote Sensing Image Semantic Segmentation}, 
   year={2023},
-  pages={1-1},
+  volume={61},
+  number={},
+  pages={1-16},
   doi={10.1109/TGRS.2023.3336689}}
 </pre>
 # Requirement
